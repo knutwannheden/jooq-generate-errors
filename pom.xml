@@ -45,7 +45,9 @@
                             <properties>
                                 <property>
                                     <key>scripts</key>
-                                    <value>src/main/resources/db/error2/*</value>
+                                    <value>src/main/resources/db/error/V1.0__bit-with-default.sql</value>
+                                    <!--<value>src/main/resources/db/error/V1.0__create-index.sql</value>-->
+                                    <!--<value>src/main/resources/db/error/V1.0__disable-foreign-key-checks.sql</value>-->
                                 </property>
                             </properties>
                         </database>
