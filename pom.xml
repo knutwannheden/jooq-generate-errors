@@ -52,9 +52,10 @@
                                     <!--<value>src/main/resources/db/error/V1.0__alter-multi-clause.sql</value>-->
                                     <!--<value>src/main/resources/db/error/V1.0__bit-with-default.sql</value>-->
                                     <!--<value>src/main/resources/db/error/V1.0__create-index.sql</value>-->
+                                    <value>src/main/resources/db/error/V1.0__create-index-more.sql</value>
                                     <!--<value>src/main/resources/db/error/V1.0__disable-foreign-key-checks.sql</value>-->
                                     <!--<value>src/main/resources/db/error/V1.0__drop-primary-key.sql</value>-->
-                                    <value>src/main/resources/db/error/V1.0__using-btree.sql</value>
+                                    <!--<value>src/main/resources/db/error/V1.0__using-btree.sql</value>-->
                                 </property>
                             </properties>
                         </database>
