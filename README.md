@@ -1,6 +1,6 @@
 # JOOQ parser errors
 
-This project contains some example code for demonstrating errors in version 3.12 (released on ) of the JOOQ DDLDatabase parser.
+This project contains some example code for demonstrating errors in version [3.12](https://github.com/jOOQ/jOOQ/releases/tag/version-3.12.0) (released on 2019-08-29) of the JOOQ DDLDatabase parser.
 
 These errors have been [reported](https://github.com/jOOQ/jOOQ/issues/9120) and are currently being addressed.
 The relevant issues can be found at the following URLs:
