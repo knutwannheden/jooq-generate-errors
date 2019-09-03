@@ -1,3 +1,6 @@
+-- Currently being addressed in https://github.com/jOOQ/jOOQ/issues/7241
+-- Workaround: remove the AFTER statement
+
 SET FOREIGN_KEY_CHECKS = 0;
 
 CREATE TABLE `example` (

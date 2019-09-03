@@ -1,3 +1,5 @@
+-- Currently being addressed in https://github.com/jOOQ/jOOQ/issues/8846
+-- Workaround: separate into individual ALTER statements
 
 CREATE TABLE `example` (
  `example_id` int(10) unsigned NOT NULL AUTO_INCREMENT,

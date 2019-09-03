@@ -1,3 +1,5 @@
+-- Currently being addressed in https://github.com/jOOQ/jOOQ/issues/9084
+-- Workaround: rearrange the queries
 
 SET FOREIGN_KEY_CHECKS = 0;
 
